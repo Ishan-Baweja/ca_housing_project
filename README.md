@@ -6,12 +6,12 @@ The dataset originates from the 1990 California census and includes features suc
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 
 ---
 
-## 🔑 Workflow Overview
+## Workflow Overview
 
 The project is structured into **four main stages**:
 
@@ -50,7 +50,7 @@ The models explored include:
 
 ---
 
-## 🧰 Dependencies
+## Dependencies
 
 - Python 3.9+  
 - pandas  
